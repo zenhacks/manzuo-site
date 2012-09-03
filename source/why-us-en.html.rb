@@ -1,5 +1,5 @@
 ---
-title: Easymoo Why Us
+title: Manzuoapp -  Why Us
 ---
 
 <header class="page-header">
@@ -17,11 +17,11 @@ Your host uses an iPad™ to run the ManZuo App. This inexpensive, easy-to-use, 
 
 With text message notification, tell your guest to "Wait where you want". Guests are more likely to accept a long wait if they are given more freedom to explore the local neighborhood while waiting. Cell phones have a limitless range whereas restaurant pagers keep patrons on-site.
 
-## No crowded entrance or waiting area 
+## No crowded entrance or waiting area
 
 Guests walk around more with text notification. This means they will wait outside, in your bar, at the bookstore across the street, etc... A congestion-free entrance is easier to navigate and, no longer seeing a long wait line, passers-by are more likely to approach the host stand.
 
-## No looking for patrons or shouting out names 
+## No looking for patrons or shouting out names
 
 With ManZuo and text notification, guests return to your host stand, not the other way around. In large restaurants, noisy places, or just with a crowd of patrons that refuse to pay attention to your host, text notification recalls guests to be seated.
 
@@ -30,7 +30,7 @@ With ManZuo and text notification, guests return to your host stand, not the oth
 Give your guests further instructions, such as to stop going shopping, or to text back if plans have changed.
 Get your guests talking about food and drink before they go shopping or are seated, and drive more sales in your restaurant.
 
-## Keep all hosts and managers updated about wait list and available tables, anywhere 
+## Keep all hosts and managers updated about wait list and available tables, anywhere
 
 Everyone can use FullSeats together. Use any iPad™, iPhone™ or iPod™ with the FullSeats App, and all devices sync. A manager on the floor can assign a table to a waiting party. The front host automatically sees where the waiting party will go. In busy restaurants, the host focuses on recording parties while another notifies guests. Even check on your restaurant when you are not there.
 
