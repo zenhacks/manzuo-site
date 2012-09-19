@@ -10,6 +10,10 @@
   name: "关于我们"
   description: "About Us"
   path: "/about.html"
+-
+  name: "申请试用"
+  description: "Apply Trial"
+  path: "/apply.html"
 # -
   # name: "Hire"
   # description: "Where talents meet"
